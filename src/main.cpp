@@ -39,7 +39,7 @@ void setup() {
 
   // neue Daten vorbereiten
 
-  doc["temp"] = 22.3;
+  doc["temperatur"] = 42.3;
   doc["feu"] = 50;
 
   String jsonString2; 
